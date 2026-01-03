@@ -189,8 +189,8 @@ def overlay_heatmap(pil_img: Image.Image, heatmap: np.ndarray, alpha: float = 0.
 # ------------------------------
 # Streamlit UI
 # ------------------------------
-st.set_page_config(page_title="EfficientNet-B0 — Receptive vs Non-Receptive", layout="wide")
-st.title("EfficientNet-B0 — Receptive vs Non-Receptive — Inference & Explainability")
+st.set_page_config(page_title="Intelligent Prediction for Optimal Embryo Transfer Timing", layout="wide")
+st.title("Intelligent Prediction for Optimal Embryo Transfer Timing")
 
 # Sidebar: model & runtime options
 st.sidebar.header("Model / Runtime")

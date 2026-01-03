@@ -1,4 +1,4 @@
-# Endometrium Receptivity Analysis & Classification Project
+# Intelligent Prediction for Optimal Embryo Transfer Timing
 
 This project focuses on analyzing and classifying endometrium receptivity using deep learning and morphological feature extraction. It consists of a data processing/analysis notebook and a Streamlit-based web application for inference and explainability.
 
