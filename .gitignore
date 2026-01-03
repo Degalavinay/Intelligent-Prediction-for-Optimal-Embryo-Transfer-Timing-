@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data sets and Archives
+Dataset_endometrium/
+*.zip
+*.tar.gz
+*.rar
+
+# Documents
+*.pdf
+*.doc
+*.docx
+*.pptx
+
+# External/Unpacked Folders
+CRISP_Ml/
+Project_Charter_Document-Template23/
+Research Tracker Template/
+Sample Architecture/
+
+# Model Weights
+*.pth
+*.pt
+*.h5
+
+# Project Artifacts (Generated Reports)
+verification_report/
+*.csv
+*.json
+
+# IDEs
+.vscode/
+.idea/
